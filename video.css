@@ -1,0 +1,31 @@
+h1
+{
+    color: brown;
+}
+
+body
+#carte
+{
+	background-color: lightseagreen;
+}
+
+#p1
+{
+	width: 500px;
+	background-color: black;
+	align-content: left;
+}
+
+#p2
+{
+	width: 500px;
+	background-color: black;
+	align-content: center;
+}
+
+#p3
+{
+	width: 500px;
+	background-color: black;
+	align-content: right;
+}
